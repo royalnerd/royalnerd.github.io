@@ -1,0 +1,109 @@
+
+body{
+	background-color:#fbfbfb;
+	font-family:'courier-new',courier,monospace;
+	color:#0e0e0e;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+header h1{
+	font-size:20px;
+	margin:0px;
+	color:#006;
+}
+header h2{
+	font-size:15px;
+	margin:0px;
+	color:99F;
+	font-style:italic;
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+article > header h1{
+	font-size:40px;
+	float:left;
+	margin-left:14px;
+}
+article > header h1 a {
+	color:#000000;
+	text-decoration:none;
+}
+article > section header h1{
+	font-size:20px;
+	margin-left:25px;
+}
+article p{
+	clear:both;
+	margin-top:0px;
+	margin-left:50px;
+}
+
+
+
+
+footer p{
+	text-align:center;
+	font-size:12px;
+	color:#888;
+	margin-top:;24px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

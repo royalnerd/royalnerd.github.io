@@ -1,0 +1,129 @@
+body{
+	background-color:#fbfbfb;
+	font-family:'courier-new',courier,monospace;
+	color:#0e0e0e;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+a:hover{
+	color:red;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+#main-header{
+	background-color:coral;
+	color:#fff;
+}
+#navbar{
+	background-color:#333;
+	color:#fff;
+	
+
+}
+h4{
+	text-decoration:underline;
+}
+h5{
+	color:white;
+}
+#navbar ul{
+	padding:0;
+	list-style:none;
+}
+#navbar li{
+	display:inline;
+}
+#navbar a{
+	color:#fff;
+	text-decoration:none;
+	font-size:18px;
+	padding-right:15px;
+}
+#navbar a:hover{
+	color:red;
+}
+#showcase{
+	background-image:url("jc-gellidon-343014-unsplash.jpg");
+	background-position:center left;
+	min-height:300px;
+	margin-bottom:30px;
+	text-align:center;
+	
+	
+	
+	
+}
+#showcase h1{
+	color:#fff;
+	font-size:50px;
+	line-height:1.6em;
+	padding-top:30px;
+}
+#main{
+	float:left;
+	width:70%;
+	padding:0 30px;
+	box-sizing:border-box;
+	text-align:center;
+	
+}
+.box-1{
+	border:5px red solid;
+}
+
+#sidebar{
+	float:right;
+	width:30%;
+	background:#333;
+	color:#fff;
+	padding:10px;
+	box-sizing:border-box;
+}
+#main-footer{
+	background:#333;
+	color:#fff;
+	text-align:center;
+	padding:20px;
+	margin-top:40px;
+}
+#main-footer a{
+	padding-right:20px;
+}
+
+@media(max-width:600px){
+	#main{
+		width:100%;
+		float:none;
+	} 
+	#sidebar{
+		width:100%;
+		float:none;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
